@@ -8,3 +8,12 @@
 # Evaldo Junior
 <sub></sub>
 **Background in:** Python, Machine Learning.
+
+**Links:**
+* [Blog](https://evaldoj.com)
+* [LinkedIn](https://www.linkedin.com/in/evaldo-junior-89094244/)
+
+
+
+## Projetos:
+Veja os códigos fonte dos projetos publicados no meu blog:
