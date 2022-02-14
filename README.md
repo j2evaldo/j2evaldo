@@ -18,4 +18,4 @@
 ## Projetos:
 Veja os códigos fonte dos projetos publicados no meu blog:
 
-* **Análise Exploratória de dados sobre Obesidade Mundial**: https://bit.ly/3LyQ2S8
+* **Análise Exploratória de dados sobre Obesidade Mundial**: https://bit.ly/34PYVpE
