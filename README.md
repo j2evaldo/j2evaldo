@@ -1,7 +1,4 @@
 - 👋 Olá, eu sou @j2evaldo, Evaldo Junior
-- 👀 Eu tenho interesse em Data Science e Machine Learning.
-- 🌱 Atualmente estou estudando Aprendizado de Máquina.
-- 💞️ Espero com isso contribuir para tornar o mundo um lugar melhor.
 - 📫 Você pode me encontrar pelo email evaldoazeredoc@gmail.com
 
 <!---
