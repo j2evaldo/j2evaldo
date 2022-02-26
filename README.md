@@ -20,3 +20,4 @@ Veja os códigos fonte dos projetos publicados no meu blog:
 
 * **Análise Exploratória de dados sobre Obesidade Mundial**: https://bit.ly/34PYVpE
 * **O poderoso Groupby do Pandas**: https://bit.ly/3sW91O8
+* **Machine Learning e o Marketing**: https://bit.ly/3pghJFZ
