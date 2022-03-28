@@ -18,6 +18,7 @@
 ## Projetos:
 Veja os códigos fonte dos projetos publicados no meu blog:
 
-* **Análise Exploratória de dados sobre Obesidade Mundial**: https://bit.ly/34PYVpE
-* **O poderoso Groupby do Pandas**: https://bit.ly/3sW91O8
-* **Machine Learning e o Marketing**: https://bit.ly/3pghJFZ
+* **Análise Exploratória de dados sobre Obesidade Mundial**: [Código do Projeto](https://bit.ly/34PYVpE)
+* **O poderoso Groupby do Pandas**: [Código do Projeto](https://bit.ly/3sW91O8)
+* **Machine Learning e o Marketing**: [Código do Projeto](https://bit.ly/3pghJFZ)
+* **Pré Diposição a Problemas Cardiácos**:[Código do Projeto](https://github.com/j2evaldo/PREVISAO-DE-DOENCAS-CARDIACAS/blob/main/!hart.ipynb)
