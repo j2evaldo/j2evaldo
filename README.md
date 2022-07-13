@@ -22,4 +22,4 @@ Veja os códigos fonte dos projetos publicados no meu blog:
 * **O poderoso Groupby do Pandas**: [Código do Projeto](https://bit.ly/3sW91O8)
 * **Machine Learning e o Marketing**: [Código do Projeto](https://bit.ly/3pghJFZ)
 * **Pré Disposição a Problemas Cardiácos**: [Código do Projeto](https://github.com/j2evaldo/PREVISAO-DE-DOENCAS-CARDIACAS/blob/main/!hart.ipynb)
-* **Banknote Authentication**: [Código do Projeto](https://bit.ly/3o0B0u6)
+* **Banknote Authentication**: [Código do Projeto](https://github.com/j2evaldo/banknote_authentication/blob/main/banknote_authentication.ipynb)
