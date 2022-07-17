@@ -18,9 +18,9 @@
 ## Projetos:
 Veja os códigos fonte dos projetos publicados no meu blog:
 
-* **Análise Exploratória de dados sobre Obesidade Mundial**: [Código do Projeto](https://bit.ly/34PYVpE)
-* **O poderoso Groupby do Pandas**: [Código do Projeto](https://bit.ly/3sW91O8)
-* **Machine Learning e o Marketing**: [Código do Projeto](https://bit.ly/3pghJFZ)
+* **Análise Exploratória de dados sobre Obesidade Mundial - Análise Exploratória**: [Código do Projeto](https://bit.ly/34PYVpE)
+* **O poderoso Groupby do Pandas - Análise Exploratória**: [Código do Projeto](https://bit.ly/3sW91O8)
+* **Machine Learning e o Marketing - KNN**: [Código do Projeto](https://bit.ly/3pghJFZ)
 * **Pré Disposição a Problemas Cardiácos**: [Código do Projeto](https://github.com/j2evaldo/PREVISAO-DE-DOENCAS-CARDIACAS/blob/main/!hart.ipynb)
 * **Banknote Authentication**: [Código do Projeto](https://github.com/j2evaldo/banknote_authentication/blob/main/banknote_authentication.ipynb)
-* **Winequality-red com Regressão Linear**: [Código do Projeto](https://github.com/j2evaldo/winequality-red/blob/main/regressao_linear.ipynb)
+* **Winequality-red - Regressão Linear**: [Código do Projeto](https://github.com/j2evaldo/winequality-red/blob/main/regressao_linear.ipynb)
