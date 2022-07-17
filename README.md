@@ -23,3 +23,4 @@ Veja os códigos fonte dos projetos publicados no meu blog:
 * **Machine Learning e o Marketing**: [Código do Projeto](https://bit.ly/3pghJFZ)
 * **Pré Disposição a Problemas Cardiácos**: [Código do Projeto](https://github.com/j2evaldo/PREVISAO-DE-DOENCAS-CARDIACAS/blob/main/!hart.ipynb)
 * **Banknote Authentication**: [Código do Projeto](https://github.com/j2evaldo/banknote_authentication/blob/main/banknote_authentication.ipynb)
+* **Winequality-red com Regressão Linear**: [Código do Projeto (https://github.com/j2evaldo/winequality-red/blob/main/regressao_linear.ipynb)
