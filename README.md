@@ -24,3 +24,4 @@ Veja os códigos fonte dos projetos publicados no meu blog:
 * **Pré Disposição a Problemas Cardiácos**: [Código do Projeto](https://github.com/j2evaldo/PREVISAO-DE-DOENCAS-CARDIACAS/blob/main/!hart.ipynb)
 * **Banknote Authentication - Árvore de Decisão**: [Código do Projeto](https://github.com/j2evaldo/banknote_authentication/blob/main/banknote_authentication.ipynb)
 * **Winequality-red - Regressão Linear**: [Código do Projeto](https://github.com/j2evaldo/winequality-red/blob/main/regressao_linear.ipynb)
+* ** Análise de Dados do TSE 2022**: [Código do Projeto](https://github.com/j2evaldo/dados-do-TSE/blob/main/eleicoes.ipynb)
