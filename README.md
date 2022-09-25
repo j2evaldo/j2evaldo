@@ -13,7 +13,7 @@
 * [Blog](https://evaldoj.com)
 * [LinkedIn](https://www.linkedin.com/in/evaldo-junior-89094244/)
 
-
+---
 
 ## Projetos:
 
@@ -26,3 +26,6 @@
 * **Winequality-red - Regressão Linear**: [Código do Projeto](https://github.com/j2evaldo/winequality-red/blob/main/regressao_linear.ipynb)
 * **Análise de Dados do TSE 2022**: [Código do Projeto](https://github.com/j2evaldo/dados-do-TSE/blob/main/eleicoes.ipynb)
 * **Competindo no Kaggle - TITANIC**: [Código do Proejto](https://github.com/j2evaldo/titanic)
+---
+
+# **Repositório  - Geração Tech Unimed-BH - Ciência de Dados** [Códigos](https://github.com/j2evaldo/dio)
