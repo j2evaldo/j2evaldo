@@ -18,6 +18,7 @@
 ## Projetos:
 
 
+* **Boas Práticas**: [Codigo do Projeto](https://github.com/j2evaldo/Boas-Praticas)
 * **Análise Exploratória de dados sobre Obesidade Mundial - Análise Exploratória**: [Código do Projeto](https://bit.ly/34PYVpE)
 * **O poderoso Groupby do Pandas - Análise Exploratória**: [Código do Projeto](https://bit.ly/3sW91O8)
 * **Machine Learning e o Marketing - KNN**: [Código do Projeto](https://bit.ly/3pghJFZ)
