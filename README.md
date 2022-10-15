@@ -29,6 +29,18 @@
 * **Competindo no Kaggle - TITANIC**: [Código do Proejto](https://github.com/j2evaldo/titanic)
 ---
 
+
+---
+
+## Formação Machine Learning Specialist
+
+### Projetos:
+
+
+- Redução de Dimensionalidade de Imagens para Redes Neurais: [Código do Projeto](https://github.com/j2evaldo/reducaodimensionalidade/blob/main/imagens.ipynb)
+
+---
+
 ## Machine Learning com AWS Sage Maker
 
 ### Projetos:
