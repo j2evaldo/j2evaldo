@@ -38,6 +38,7 @@
 
 
 - Redução de Dimensionalidade de Imagens para Redes Neurais: [Código do Projeto](https://github.com/j2evaldo/reducaodimensionalidade/blob/main/imagens.ipynb)
+- Cálculo de Métricas de Avaliação de Aprendizado: [Código do Projeto]
 
 ---
 
