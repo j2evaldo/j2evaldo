@@ -52,6 +52,12 @@
 
 ---
 
+## **Curso Pytorch**
+
+### Projetos:
+
+- **Classificação de Casos de Cancer** - [Código do Projeto]
+
 ## **Geração Tech Unimed-BH - Ciência de Dados**
 
 ### Projetos:
