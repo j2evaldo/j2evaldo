@@ -56,7 +56,9 @@
 
 ### Projetos:
 
-- **Classificação de Casos de Cancer** - [Código do Projeto]
+- **Classificação de Casos de Cancer** - [Código do Projeto](https://github.com/j2evaldo/cursoPytorch)
+
+---
 
 ## **Geração Tech Unimed-BH - Ciência de Dados**
 
