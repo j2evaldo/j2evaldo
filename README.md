@@ -57,6 +57,7 @@
 ### Projetos:
 
 - **Classificação de Casos de Cancer** - [Código do Projeto](https://github.com/j2evaldo/cursoPytorch)
+- **Validação Cruzada com Dropout** --[Codigo do Projeto](https://github.com/j2evaldo/validacaoCruzadaDropout/blob/main/02_projeto.ipynb)
 
 ---
 
