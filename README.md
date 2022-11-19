@@ -30,6 +30,22 @@
 ---
 
 
+## **Geração Tech Unimed-BH - Ciência de Dados**
+
+### Projetos:
+
+
+- **Projeto Análise de Dados com Python e Pandas** - [Código do Projeto](https://github.com/j2evaldo/dio/blob/main/EDA_DIO.ipynb)
+- **Projeto de Publicação de Pacote no Pypi** - [Código do Projeto](https://github.com/j2evaldo/pacote)
+- **Projeto de Previsão de Casos de Covid com Machine Learning** - [Código do Projeto](https://github.com/j2evaldo/covid_dio/blob/main/covid.ipynb)
+- **Projeto de Transfer Learning** - [Código do Projeto](https://github.com/j2evaldo/transfer_learning/blob/main/transfer_learning.ipynb)
+- **Projeto de boas Pŕaticas com DynamoDB** - [Código do Projeto](https://github.com/j2evaldo/dio-live-dynamodb)
+- **Explorando Dados Demográficos com Serviços de Big Data na AWS** - [Descrição do Projeto](https://github.com/j2evaldo/dio-live-athena?organization=j2evaldo&organization=j2evaldo)
+- **Projeto Modelo Coneitual de Banco de Dados** - [Código do Projeto](https://github.com/j2evaldo/dio-conceitual_db/blob/main/Modelo%20Conceitual.png)
+- **Projeto Modelo Coneitual de Banco de Dados para uma Oficina** - [Código do Projeto](https://github.com/j2evaldo/dio_Construindo-um-Esquema-Conceitual-para-Banco-De-dados/blob/main/Oficina.png)
+- **Projeto Lógico Banco de Dados** [Código do Proejto](https://github.com/j2evaldo/dio-projeto-logico/blob/main/bd.sql)
+
+
 ---
 
 ## Formação Python Developer:
@@ -65,20 +81,4 @@
 - **Classificação de Casos de Cancer** - [Código do Projeto](https://github.com/j2evaldo/cursoPytorch)
 - **Validação Cruzada com Dropout** --[Codigo do Projeto](https://github.com/j2evaldo/validacaoCruzadaDropout/blob/main/02_projeto.ipynb)
 
----
-
-## **Geração Tech Unimed-BH - Ciência de Dados**
-
-### Projetos:
-
-
-- **Projeto Análise de Dados com Python e Pandas** - [Código do Projeto](https://github.com/j2evaldo/dio/blob/main/EDA_DIO.ipynb)
-- **Projeto de Publicação de Pacote no Pypi** - [Código do Projeto](https://github.com/j2evaldo/pacote)
-- **Projeto de Previsão de Casos de Covid com Machine Learning** - [Código do Projeto](https://github.com/j2evaldo/covid_dio/blob/main/covid.ipynb)
-- **Projeto de Transfer Learning** - [Código do Projeto](https://github.com/j2evaldo/transfer_learning/blob/main/transfer_learning.ipynb)
-- **Projeto de boas Pŕaticas com DynamoDB** - [Código do Projeto](https://github.com/j2evaldo/dio-live-dynamodb)
-- **Explorando Dados Demográficos com Serviços de Big Data na AWS** - [Descrição do Projeto](https://github.com/j2evaldo/dio-live-athena?organization=j2evaldo&organization=j2evaldo)
-- **Projeto Modelo Coneitual de Banco de Dados** - [Código do Projeto](https://github.com/j2evaldo/dio-conceitual_db/blob/main/Modelo%20Conceitual.png)
-- **Projeto Modelo Coneitual de Banco de Dados para uma Oficina** - [Código do Projeto](https://github.com/j2evaldo/dio_Construindo-um-Esquema-Conceitual-para-Banco-De-dados/blob/main/Oficina.png)
-- **Projeto Lógico Banco de Dados** [Código do Proejto](https://github.com/j2evaldo/dio-projeto-logico/blob/main/bd.sql)
 
