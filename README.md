@@ -15,7 +15,7 @@
 
 ---
 
-## Projetos Gerais:
+## Projetos Gerais Data Science:
 
 
 * **Boas Práticas**: [Codigo do Projeto](https://github.com/j2evaldo/Boas-Praticas)
