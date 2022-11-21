@@ -52,6 +52,7 @@
 - **Sistema Bancário**: [Código do Projeto](https://github.com/j2evaldo/SistemaBancario/blob/main/sistema_bancario.ipynb)
 - **Sistema Bancário Organizado por Funções**: [Código do Projeto](https://github.com/j2evaldo/SistemaBancario/blob/main/sistema_bancario_funcoes.py)
 - **Sistema Bancário com Orientação a Objetos**:[Código do Projeto](https://github.com/j2evaldo/SistemaBancario/blob/main/sistema_bancario_objetos.py)
+- **Integrando Python com SQLite**: [Códdigo do Projeto](https://github.com/j2evaldo/Integracao_Python_com_Frameworks/blob/main/python_with_sqlite.py)
 
 ---
 
