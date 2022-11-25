@@ -57,6 +57,7 @@
 - **API com Flask**: [Código do Projeto](https://github.com/j2evaldo/Integracao_Python_com_Frameworks/blob/main/API%20_with_Flask.ipynb)
 - **Manipulando Vários Tipos de Dados**: [Código do Porjeto](https://github.com/j2evaldo/manipulandoDados/blob/main/entradas.ipynb)
 - **Análise de Séries Temporais**: [Código do Projeto](https://github.com/j2evaldo/serie_temporais/blob/main/series_temporais.ipynb)
+- **Análise e Visuzzalizaão de Dados**: [Código do Projeto](https://github.com/j2evaldo/visualisacao_dados/blob/main/Introducao_data_science.ipynb)
 
 ---
 
