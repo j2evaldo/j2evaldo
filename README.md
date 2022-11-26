@@ -62,31 +62,5 @@
 
 ---
 
-## Formação Machine Learning Specialist
-
-### Projetos:
-
-
-- Redução de Dimensionalidade de Imagens para Redes Neurais: [Código do Projeto](https://github.com/j2evaldo/reducaodimensionalidade/blob/main/imagens.ipynb)
-- Cálculo de Métricas de Avaliação de Aprendizado: [Código do Projeto](https://github.com/j2evaldo/metricasavalicao/blob/main/Metricas.ipynb)
-
----
-
-## Machine Learning com AWS Sage Maker
-
-### Projetos:
-
-
-- Enviando Arquivos para o S3: [Código do Projeto](https://github.com/j2evaldo/aws/blob/main/EnviarArquivo.ipynb)
-- Fazendo Download de Arquivos do S3: [Código do Projeto](https://github.com/j2evaldo/aws/blob/main/DownloadS3.ipynb)
-
----
-
-## **Curso Pytorch**
-
-### Projetos:
-
-- **Classificação de Casos de Cancer** - [Código do Projeto](https://github.com/j2evaldo/cursoPytorch)
-- **Validação Cruzada com Dropout** --[Codigo do Projeto](https://github.com/j2evaldo/validacaoCruzadaDropout/blob/main/02_projeto.ipynb)
 
 
