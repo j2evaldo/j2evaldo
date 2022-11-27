@@ -26,6 +26,7 @@
 * **Banknote Authentication - Árvore de Decisão**: [Código do Projeto](https://github.com/j2evaldo/banknote_authentication/blob/main/banknote_authentication.ipynb)
 * **Winequality-red - Regressão Linear**: [Código do Projeto](https://github.com/j2evaldo/winequality-red/blob/main/regressao_linear.ipynb)
 * **Consumo de Cerveja - Regressão Lienar**: [Código do Projeto](https://github.com/j2evaldo/regressaolinear_consumo_cerveja/blob/main/Regress%E2%95%9Eo%20Linear.ipynb)
+* **Preços de Casas - Regressão Linear**: [Código do Projeto](https://github.com/j2evaldo/regeressao_linear_preco_casas/blob/main/Regress%C3%A3o%20Linear.ipynb)
 * **Análise de Dados do TSE 2022**: [Código do Projeto](https://github.com/j2evaldo/dados-do-TSE/blob/main/eleicoes.ipynb)
 * **Competindo no Kaggle - TITANIC**: [Código do Proejto](https://github.com/j2evaldo/titanic)
 ---
