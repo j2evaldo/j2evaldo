@@ -61,6 +61,7 @@
 - **Análise de Séries Temporais**: [Código do Projeto](https://github.com/j2evaldo/serie_temporais/blob/main/series_temporais.ipynb)
 - **Análise e Visuaização de Dados**: [Código do Projeto](https://github.com/j2evaldo/visualisacao_dados/blob/main/Introducao_data_science.ipynb)
 - **Estatística 1**: [Código do Projeto](https://github.com/j2evaldo/estatistica1/blob/main/estatistica1.ipynb)
+- **Visualização de Dados**:[Código do Projeto](https://github.com/j2evaldo/visualizacao_matplotlib/blob/main/data_visalization.ipynb)
 
 ---
 
