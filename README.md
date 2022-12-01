@@ -68,6 +68,7 @@
 - **Análise e Visuaização de Dados**: [Código do Projeto](https://github.com/j2evaldo/visualisacao_dados/blob/main/Introducao_data_science.ipynb)
 - **Estatística 1**: [Código do Projeto](https://github.com/j2evaldo/estatistica1/blob/main/estatistica1.ipynb)
 - **Testes Estatisticos**:[Código do Projeto](https://github.com/j2evaldo/testes_estatisticos/blob/main/testes_estatisticos.ipynb)
+- **Análise de Experimentos**[Código do Projeto](https://github.com/j2evaldo/analise_de_experimentos/blob/main/Planejamento_experimentos_aula.ipynb)
 
 
 
