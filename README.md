@@ -70,5 +70,14 @@
 - **Testes Estatisticos**:[Código do Projeto](https://github.com/j2evaldo/testes_estatisticos/blob/main/testes_estatisticos.ipynb)
 - **Análise de Experimentos**[Código do Projeto](https://github.com/j2evaldo/analise_de_experimentos/blob/main/Planejamento_experimentos_aula.ipynb)
 
+---
+
+## **Machine Learning**
+### **Classificação com SKlearning**
+- **<font color = 'blue'>Contratação Projeto Site - Lenear SVC</font>**: [Código do Projeto](https://github.com/j2evaldo/Machine_learning_Classificacao_Sklearning/blob/main/02_dados_projeto_site.ipynb)
+- 
+
+
+
 
 
