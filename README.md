@@ -78,6 +78,7 @@
 - **Classificação com Sklearning - SVM**: [Código do Projeto](https://github.com/j2evaldo/Machine_learning_Classificacao_Sklearning/blob/main/machine_learning_dados_Acesso_site.ipynb)
 - **Classificação com Sklearning - Decision Tree**: [Código do Projeto](https://github.com/j2evaldo/Machine_learning_Classificacao_Sklearning/blob/main/03_dados_projeto_Venda_carro.ipynb)
 - **Redução de Dimensionalidade e Feature Selection**: [Código do Projeto](https://github.com/j2evaldo/reducao_dimensionalidade/blob/main/dimensionalidade.ipynb)
+- **Identificando Padrões com KNN**: [Código do Projeto](https://github.com/j2evaldo/padroes_com_Knn/blob/main/knn_Extraindo_Padroes.ipynb)
 
 
 
