@@ -80,7 +80,7 @@
 - **Redução de Dimensionalidade e Feature Selection**: [Código do Projeto](https://github.com/j2evaldo/reducao_dimensionalidade/blob/main/dimensionalidade.ipynb)
 - **Identificando Padrões com KNN**: [Código do Projeto](https://github.com/j2evaldo/padroes_com_Knn/blob/main/knn_Extraindo_Padroes.ipynb)
 - **Sistema de Sujestão de Musicas com KNN**: [Código do Projeto](https://github.com/j2evaldo/Sistema_Sugestao_KNN/blob/main/01_clusterizacao.ipynb)
-- **Validação de Modelos**:[Código do Projeto](https://github.com/j2evaldo/validacao_de_modelos/blob/main/modelo.ipynb)
+- **Validação de Modelos**: [Código do Projeto](https://github.com/j2evaldo/validacao_de_modelos/blob/main/modelo.ipynb)
 
 
 
