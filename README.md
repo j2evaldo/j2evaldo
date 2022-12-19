@@ -83,6 +83,10 @@
 - **Validação de Modelos**: [Código do Projeto](https://github.com/j2evaldo/validacao_de_modelos/blob/main/modelo.ipynb)
 
 
+---
+
+## **Deep Learning**
+- **Deep Learning Parte1: Keras**: [Código do Projeto](https://github.com/j2evaldo/Deep-Learning-Parte1-Keras/blob/main/classificacao_roupas.ipynb)
 
 
 
