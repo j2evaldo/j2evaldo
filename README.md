@@ -86,6 +86,7 @@
 ---
 
 ## **Deep Learning**
+- **Conceitos Básicos Keras**: [Código do Projeto](https://github.com/j2evaldo/metricas_keras/blob/main/introducao_tensor_flow.ipynb)
 - **Deep Learning Parte1: Keras**: [Código do Projeto](https://github.com/j2evaldo/Deep-Learning-Parte1-Keras/blob/main/classificacao_roupas.ipynb)
 
 
