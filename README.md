@@ -91,4 +91,5 @@
 - **Deep Learning Parte1: Keras**: [Código do Projeto](https://github.com/j2evaldo/Deep-Learning-Parte1-Keras/blob/main/classificacao_roupas.ipynb)
 
 
-
+## **Manipulação de Arquivos**
+- **Movendo, Excluindo e Copiando Arquivos**:[Código do Porjeto]() 
