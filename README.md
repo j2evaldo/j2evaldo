@@ -94,4 +94,6 @@
 ## **Manipulação de Arquivos**
 - **Movendo, Excluindo e Copiando Arquivos**:[Código do Porjeto](https://github.com/j2evaldo/manipulando_arquivos/blob/main/OS.ipynb) 
 
+---
+
 ## **Projetos Utilizando OPEN AI**:[Repositório](https://github.com/j2evaldo/OpenAI)
