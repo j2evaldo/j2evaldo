@@ -15,13 +15,13 @@ Minhas atividades dentro do ambiente da Industria 4.0 vão desde a programação
 Atuo de forma bastante integrada com os times de Manutenção e Produção. 
 
 Desta integração nasceram projetos muito interessantes dentre os quais destaco:
-- Sistema de Recomendação de Variáveis para Modelos Preditovos:
+- **Sistema de Recomendação de Variáveis para Modelos Preditovos**:
 Possuimos um modelo proditivo de qualidade que tem mais de 1400 features. O modelo que criei junto com um Engenheiro de Processos reduz este numero para cerca de 60 e aumenta em média 5% a acurácia do Modelo
 
-- Modelo para Interpretação de Variáveis de Processo: Junto com um Engenheiro de Manutenção, desenvolvi um modelo que identifica o impacto de determinados equipamentos dentro do processo produtivo. 
+- **Modelo para Interpretação de Variáveis de Processo**: Junto com um Engenheiro de Manutenção, desenvolvi um modelo que identifica o impacto de determinados equipamentos dentro do processo produtivo. 
 Com ele, conseguimos desligar uma bomba que funcionava 24hr por dia e gerou uma redução de consumo de mais de R$ 490.000,00 no ano., valor validado pela controladoria.
 
-- Analise Exploratória de Funcionamento de Motores: Junto com um Engenheiro de Segurança do trabalho, identificamos que uma das bombas de emergencia estava ficando ligada cerca de 20hr por dia. Elaboramos uma rotina de aviso para que os operadores fossem acionados sempre que a bomba estivesse trabalhando de forma inadequada. Como resultado, conseguimos uma redução de cerca de R$ 280.000,00 por ano, valor validado por controladoria. 
+- **Analise Exploratória de Funcionamento de Motores**: Junto com um Engenheiro de Segurança do trabalho, identificamos que uma das bombas de emergencia estava ficando ligada cerca de 20hr por dia. Elaboramos uma rotina de aviso para que os operadores fossem acionados sempre que a bomba estivesse trabalhando de forma inadequada. Como resultado, conseguimos uma redução de cerca de R$ 280.000,00 por ano, valor validado por controladoria. 
 <sub></sub>
 **Background in:** Python, Machine Learning.
 
