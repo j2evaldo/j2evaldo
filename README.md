@@ -9,9 +9,9 @@
 <sub></sub>
 **Background in:** Python, Machine Learning.
 
-**Links:**
-* [Blog](https://evaldoj.com)
-* [LinkedIn](https://www.linkedin.com/in/evaldo-junior-89094244/)
+**Projetos:**
+* [Melhorando a Tomada de Decisão dentro do amiente de Manuntenção com Machine Learning]([https://evaldoj.com](https://github.com/j2evaldo/Manutencao)https://github.com/j2evaldo/Manutencao)
+
 
 ---
 
