@@ -10,7 +10,7 @@
 **Background in:** Python, Machine Learning.
 
 **Projetos:**
-* [Melhorando a Tomada de Decisão dentro do amiente de Manuntenção com Machine Learning]([https://evaldoj.com](https://github.com/j2evaldo/Manutencao)https://github.com/j2evaldo/Manutencao)
+* [Melhorando a Tomada de Decisão dentro do amiente de Manuntenção com Machine Learning](https://evaldoj.com](https://github.com/j2evaldo/Manutencao)https://github.com/j2evaldo/Manutencao)
 
 
 ---
