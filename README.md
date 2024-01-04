@@ -26,7 +26,7 @@ Com ele, conseguimos desligar uma bomba que funcionava 24hr por dia e gerou uma 
 **Background in:** Python, Machine Learning.
 
 **Projetos:**
-* [Melhorando a Tomada de Decisão dentro do amiente de Manuntenção com Machine Learning](https://evaldoj.com](https://github.com/j2evaldo/Manutencao)https://github.com/j2evaldo/Manutencao)
+* [Melhorando a Tomada de Decisão dentro do amiente de Manuntenção com Machine Learning](https://github.com/j2evaldo/Manutencao)
 
 
 ---
